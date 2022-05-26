@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.EpiFi" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/purple</item>
+        <item name="android:colorPrimary">@color/purple</item>
+        <item name="android:colorAccent">@color/orange</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+
+</resources>

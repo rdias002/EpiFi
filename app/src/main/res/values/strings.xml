@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EpiFi</string>
+    <string name="company_name">S.</string>
+    <string name="intro_msg">First of the few steps to set you up with a Bank Account</string>
+    <string name="pan_number">PAN NUMBER</string>
+    <string name="birthdate">BIRTHDATE</string>
+    <string name="next">NEXT</string>
+    <string name="i_dont_have_pan">I don\'t have a PAN</string>
+    <string name="info_text">Providing PAN &amp; Date of Birth helps us find and fetch your KYC from a central registry by the Government of India.</string>
+    <string name="learn_more">Learn more.</string>
+</resources>
